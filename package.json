@@ -1,0 +1,7 @@
+{
+  "name": "9r-scwebs",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "start": "9router" },
+  "dependencies": { "9router": "latest" }
+}
